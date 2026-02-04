@@ -1,0 +1,19 @@
+## Ignorer les dossiers de build
+bin/
+obj/
+.vs/
+
+## Ignorer les fichiers de configuration utilisateur
+*.user
+*.suo
+
+## Ignorer les résultats de tests
+TestResults/
+
+## Ignorer les packages NuGet
+packages/
+*.nupkg
+
+## Ignorer les fichiers temporaires
+*.tmp
+*.log
